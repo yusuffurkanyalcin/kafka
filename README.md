@@ -14,3 +14,7 @@
 ![image](https://github.com/user-attachments/assets/e04500a1-c3f9-4435-a66e-814ea0ee4a4e)
 
 
+## References
+- While developing this project, I took Furkan Sönmez's Kafka lesson as an example.
+- Furkan's github: https://github.com/mrsonmez10
+- Furkan's Kafka video: [https://www.youtube.com/watch?v=R4Qbngs_tKw](https://www.youtube.com/watch?v=R4Qbngs_tKw)
