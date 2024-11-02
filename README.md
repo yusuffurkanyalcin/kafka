@@ -1,3 +1,12 @@
+# Tech Stack
+- Java 17+
+- Postgresql
+- Debezium
+- Zookeper
+- Kafka
+- Outbox pattern
+- Docker
+
 # How to run
 - Clone this project to your local
 - Go to the root path of this project --> /kafka
