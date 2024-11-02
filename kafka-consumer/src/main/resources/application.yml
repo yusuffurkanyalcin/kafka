@@ -1,0 +1,10 @@
+server:
+  port: 0
+
+spring:
+  application:
+    name: kafka-consumer
+
+kafka:
+  brokers: localhost:59092
+

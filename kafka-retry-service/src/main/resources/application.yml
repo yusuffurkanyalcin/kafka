@@ -1,0 +1,10 @@
+server:
+  port: 0
+
+spring:
+  application:
+    name: kafka-retry-service
+
+kafka:
+  brokers: localhost:59092
+  topics: { "order-create.kafkaconsumer.error": 10 }
